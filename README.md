@@ -9,7 +9,7 @@
 
 | 仓库 | 解决什么问题 | 怎么用 |
 |:--|:--|:--|
-| [`freellm`](https://github.com/Lumjiel/freellm) | 免费 LLM 调用：6 家平台互为备胎，档位优先自动降级 | 纯标准库零依赖（详见 README 快速开始） |
+| [`freellm`](https://github.com/Lumjiel/freellm) | 免费 LLM 调用：6 家平台互为备胎，档位优先自动降级 | `pip install git+https://github.com/Lumjiel/freellm.git` |
 | [`x-list-following-picker`](https://github.com/Lumjiel/x-list-following-picker) | X 列表批量导入：把**全部**关注账号（不是前 20 个）加进 List | 装 `.user.js` → 打开列表成员页，右下角出现面板 |
 | [`pi-config`](https://github.com/Lumjiel/pi-config) | 终端编码代理 Pi 的整套配置：20 插件 · 17 Skill · 1 MCP | 一条命令完整复刻（详见 README） |
 | [`browser-agent`](https://github.com/Lumjiel/browser-agent) | AI Agent 的浏览器手和眼：HTTP → 油猴 → DOM 桥接 | `make install` → 起本地桥接服务 |

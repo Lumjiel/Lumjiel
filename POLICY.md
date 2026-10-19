@@ -34,6 +34,5 @@
 ## 四、已知待办（诚实记录）
 
 - `tampermonkey-scripts`：内含校内平台规避类脚本，按第 2 条应拆分或转私有 —— 暂缓，风险自担
-- `freellm`：README 缺「3 行安装」，是目前唯一有机会被外部采用的项目
 - `PBTI` / `jianying-autopilot` / `my-knowledge`：二进制进 git 造成历史膨胀，待 PC 端用 LFS 或历史重写处理
 - 两个 Obsidian 仓（`my-knowledge` / `workspace`）：真源未定，需合并或归档其一
