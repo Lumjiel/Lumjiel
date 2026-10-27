@@ -6,10 +6,6 @@ AI Agent 工具链 · 逆向工程 · 自动化 · [个人站](https://lumjiel.t
 
 ---
 
-**在做** — 把联通云盘的 38 个接口封成 25 个 MCP 工具，让模型直接操作网盘。都写在 [`wocloud`](https://github.com/Lumjiel/wocloud) 里。
-
----
-
 ## 工具
 
 装得上、跑得起来的那几个。README 里都写了为什么做、卡在哪、怎么验证。
