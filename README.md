@@ -10,7 +10,7 @@
 | 仓库 | 解决什么问题 | 怎么用 |
 |:--|:--|:--|
 | [`freellm`](https://github.com/Lumjiel/freellm) | 免费 LLM 调用：6 家平台互为备胎，档位优先自动降级 | `pip install git+https://github.com/Lumjiel/freellm.git` |
-| [`tampermonkey-scripts`](https://github.com/Lumjiel/tampermonkey-scripts) | 学生向浏览器脚本合集：抖音采集/下载、X 列表批量导入、学习辅助 | `npm run build` → `dist/*.user.js` 装进 Tampermonkey |
+| [`tampermonkey-scripts`](https://github.com/Lumjiel/tampermonkey-scripts) | 浏览器用户脚本合集：编辑器增强、抖音数据采集/下载、X 列表批量管理 | `npm run build` → `dist/*.user.js` 装进 Tampermonkey |
 | [`pi-config`](https://github.com/Lumjiel/pi-config) | 终端编码代理 Pi 的整套配置：20 插件 · 17 Skill · 1 MCP | 一条命令完整复刻（详见 README） |
 | [`browser-agent`](https://github.com/Lumjiel/browser-agent) | AI Agent 的浏览器手和眼：HTTP → 油猴 → DOM 桥接 | `make install` → 起本地桥接服务 |
 | [`deepseek-mindtrace`](https://github.com/Lumjiel/deepseek-mindtrace) | DeepSeek 对话全量导出、分支树还原、中文全文搜索 | 双轨抓取：油猴全量 + API 增量（详见 README） |
