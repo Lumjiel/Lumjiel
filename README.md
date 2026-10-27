@@ -10,7 +10,7 @@
 | 仓库 | 解决什么问题 | 怎么用 |
 |:--|:--|:--|
 | [`freellm`](https://github.com/Lumjiel/freellm) | 免费 LLM 调用：6 家平台互为备胎，档位优先自动降级 | `pip install git+https://github.com/Lumjiel/freellm.git` |
-| [`x-list-following-picker`](https://github.com/Lumjiel/x-list-following-picker) | X 列表批量导入：把**全部**关注账号（不是前 20 个）加进 List | 装 `.user.js` → 打开列表成员页，右下角出现面板 |
+| [`tampermonkey-scripts`](https://github.com/Lumjiel/tampermonkey-scripts) | 学生向浏览器脚本合集：抖音采集/下载、X 列表批量导入、学习辅助 | `npm run build` → `dist/*.user.js` 装进 Tampermonkey |
 | [`pi-config`](https://github.com/Lumjiel/pi-config) | 终端编码代理 Pi 的整套配置：20 插件 · 17 Skill · 1 MCP | 一条命令完整复刻（详见 README） |
 | [`browser-agent`](https://github.com/Lumjiel/browser-agent) | AI Agent 的浏览器手和眼：HTTP → 油猴 → DOM 桥接 | `make install` → 起本地桥接服务 |
 | [`deepseek-mindtrace`](https://github.com/Lumjiel/deepseek-mindtrace) | DeepSeek 对话全量导出、分支树还原、中文全文搜索 | 双轨抓取：油猴全量 + API 增量（详见 README） |
@@ -27,6 +27,7 @@
 | 仓库 | 说明 |
 |:--|:--|
 | [`Todolist`](https://github.com/Lumjiel/Todolist) | 极简 Todo（Vue）· 2026-05 起停止维护 |
+| [`x-list-following-picker`](https://github.com/Lumjiel/x-list-following-picker) | X 列表批量导入 · 已并入 `tampermonkey-scripts`，此处仅保留历史 |
 
 ## 📚 上游参考（fork，非本人作品）
 
