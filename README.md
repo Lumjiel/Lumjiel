@@ -90,9 +90,6 @@ fork，不是我的作品。
 
 ## 📊 状态面板
 
-![](https://github-readme-stats.vercel.app/api?username=Lumjiel&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumjiel&layout=compact&theme=synthwave&hide_border=true&langs_count=8)
-
 <img src="https://raw.githubusercontent.com/Lumjiel/Lumjiel/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" width="100%">
 
 ---
