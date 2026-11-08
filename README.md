@@ -5,5 +5,3 @@
 </picture>
 
 ### 🏰 存档点 → **[lumjiel.top](https://lumjiel.top)**
-
-<sub>像素 RPG 风个人站，好东西都在那边。</sub>
