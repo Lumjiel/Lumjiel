@@ -2,9 +2,20 @@
 
 写工具，把重复劳动交给机器。
 
-AI Agent 工具链 · 逆向工程 · 自动化 · [个人站](https://lumjiel.top)
+AI Agent 工具链 · 逆向工程 · 自动化 · [个人站](https://lumjiel.top) · 存档点 🎮
+
+## 🎮 玩家档案
+
+| 属性 | 数值 |
+|---|---|
+| 职业 | 工具炼金术士 —— 把重复劳动炼成一行命令 |
+| 主线 | 让机器替我上班 |
+| 已通关副本 | 联通云盘协议（38 命令 CLI + 25 MCP 工具）· 剪映原生草稿 · 校园网 Dr.COM · 微信公众号后台 |
+| 当前副本 | 三端 Agent 技能总线（89 个 skill）· WorkBuddy 云端 22 万技能矿 |
+| 台词 | 「不行」二字，要么有穷举证据，要么先别写 |
 
 ---
+
 
 ## 工具
 
@@ -72,6 +83,17 @@ fork，不是我的作品。
 - **[IRIS](https://github.com/Lumjiel/IRIS)** — 竞品调研 Agent（LangGraph）
 - **[wechat-intelligence-hub](https://github.com/Lumjiel/wechat-intelligence-hub)** — Local-first 微信情报系统
 - **[jianying-headless](https://github.com/Lumjiel/jianying-headless)** — 剪映无头化：原生草稿解析 / 隔离导出 / 独立 Agent Skill
+
+---
+
+---
+
+## 📊 状态面板
+
+![](https://github-readme-stats.vercel.app/api?username=Lumjiel&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumjiel&layout=compact&theme=synthwave&hide_border=true&langs_count=8)
+
+<img src="https://raw.githubusercontent.com/Lumjiel/Lumjiel/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" width="100%">
 
 ---
 
