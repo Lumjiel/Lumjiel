@@ -35,6 +35,10 @@ pip install git+https://github.com/Lumjiel/freellm.git
 make install && make run
 ```
 
+### [deepseek-mindtrace](https://github.com/Lumjiel/deepseek-mindtrace)
+
+DeepSeek 对话全量导出与分析。把长期对话变成可检索、可分析的个人思维档案。
+
 ### [pi-config](https://github.com/Lumjiel/pi-config)
 
 终端编码代理 Pi 的整套配置。20 插件 / 17 Skill / 1 MCP，一条命令复刻。
@@ -60,7 +64,6 @@ npm run build   # → dist/*.user.js
 
 - **[Todolist](https://github.com/Lumjiel/Todolist)** — 极简 Todo（Vue）
 - **[Observatory](https://github.com/Lumjiel/Observatory)** — 终端风格学习面板
-- **[x-list-following-picker](https://github.com/Lumjiel/x-list-following-picker)** — 已并入 `tampermonkey-scripts`
 
 ## 上游参考
 
@@ -68,6 +71,7 @@ fork，不是我的作品。
 
 - **[IRIS](https://github.com/Lumjiel/IRIS)** — 竞品调研 Agent（LangGraph）
 - **[wechat-intelligence-hub](https://github.com/Lumjiel/wechat-intelligence-hub)** — Local-first 微信情报系统
+- **[jianying-headless](https://github.com/Lumjiel/jianying-headless)** — 剪映无头化：原生草稿解析 / 隔离导出 / 独立 Agent Skill
 
 ---
 
